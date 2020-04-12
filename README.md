@@ -3,7 +3,7 @@ Object Oriented Programming in Python
 
 QUESTIONS
 ---------
-1- Python program for a database of phone numbers could be stored using a dictionary and perform Initialize, adding, removing operations. 
+1- Python program for a database of phone numbers could be stored using a dictionary and perform Initialize, adding, removing operations.                                                                                                                 
 2- Write a python program to represent complex numbers using class                                                                         
 3- Write a python program to create a sales system for car dealership using Object-oriented techniques                                                                                                                
 
