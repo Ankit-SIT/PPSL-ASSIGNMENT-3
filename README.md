@@ -1,4 +1,9 @@
 # PPSL-ASSIGNMENT-3
+
+NAME - ANKIT DAS                                                                             
+PRN - 19070122023                                                                                                                        CLASS - CS A1                                                                                                  
+                                                                             
+                                                        
 Object Oriented Programming in Python
 
 QUESTIONS
