@@ -16,10 +16,8 @@ QUESTIONS
 USAGE
 ------
 The files are placed inside individual folders.                                                                                           Please run them using python 3
-
                                                                                                                 
                                                                                                                     
-                                                                                                                              
-LATEST COMMIT ON 12/04/2020 - 4:14 IST                                                                                                     
-FOR HELP, CONTACT ankit.das.btech2019@sitpune.edu.in or
+                                                                                                                                                                                                                          
+ankit.das.btech2019@sitpune.edu.in
 https://github.com/nkitan 
